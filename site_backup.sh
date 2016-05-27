@@ -1,10 +1,8 @@
 #!/bin/bash
 
-#-------------------------------------------
-# WP backup script: Maintained by Dan Fowler
-# Website: dsfcode.com
-# Version 1.0.0
-#-------------------------------------------
+#-----------------
+# WP backup script
+#-----------------
 
 # This script creates a compressed backup archive of the given directory and the given MySQL table
 
