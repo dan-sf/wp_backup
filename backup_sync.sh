@@ -1,10 +1,8 @@
 #!/bin/bash
 
-#------------------------------------------------
-# WP backup sync script: Maintained by Dan Fowler
-# Website: dsfcode.com
-# Version 1.0.0
-#------------------------------------------------
+#----------------------
+# WP backup sync script
+#----------------------
 
 USER="user_name"; DOMAIN="site.com";
 L_DIR="/Users/user_name/Path/to/backup/";
